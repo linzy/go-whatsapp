@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Rhymen/go-whatsapp"
+	"github.com/linzy/go-whatsapp"
 	"log"
 	"time"
 )
